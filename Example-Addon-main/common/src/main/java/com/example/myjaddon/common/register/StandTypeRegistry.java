@@ -11,4 +11,7 @@ public interface StandTypeRegistry {
 
     RegistrySupplier<StandType> EXAMPLE_STAND = REGISTRY.register(ExampleAddon.id("example_stand"), () ->
             StandType.of(ExampleAddon.id("example_stand"), EntityTypeRegistry.EXAMPLE_STAND));
+
+    RegistrySupplier<StandType> THE_HAND_THE_WORLD = REGISTRY.register(ExampleAddon.id("the_hand_the_world"), () ->
+            StandType.of(ExampleAddon.id("the_hand_the_world"), EntityTypeRegistry.THE_HAND_THE_WORLD));
 }

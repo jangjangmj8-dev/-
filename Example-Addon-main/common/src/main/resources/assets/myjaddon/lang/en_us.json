@@ -1,0 +1,7 @@
+{
+  "entity.myjaddon.the_hand_the_world": "The Hand: The World",
+  "entity.myjaddon.the_hand_the_world.desc": "The Hand's moves, with time stop on H and a 14-block time skip on mouse 5.",
+  "subtitles.myjaddon.the_hand_world_summon": "The Hand: The World summons",
+  "subtitles.myjaddon.the_hand_world_timestop": "Time stops",
+  "subtitles.myjaddon.the_hand_world_timeresume": "Time resumes"
+}

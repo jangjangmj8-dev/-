@@ -1,0 +1,20 @@
+{
+  "the_hand_world_summon": {
+    "subtitle": "subtitles.myjaddon.the_hand_world_summon",
+    "sounds": [
+      "myjaddon:the_hand_world_summon"
+    ]
+  },
+  "the_hand_world_timestop": {
+    "subtitle": "subtitles.myjaddon.the_hand_world_timestop",
+    "sounds": [
+      "myjaddon:the_hand_world_timestop"
+    ]
+  },
+  "the_hand_world_timeresume": {
+    "subtitle": "subtitles.myjaddon.the_hand_world_timeresume",
+    "sounds": [
+      "jcraft:stands/theworld/time_stop"
+    ]
+  }
+}
